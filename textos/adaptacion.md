@@ -15,3 +15,19 @@ Neurriak errespetatzeaz gain, beste arazo bat identifikatu dute Alonsok eta Elez
 
 #### Kontrolaren eragina
 Zabalzak dioenez, «kontrola» izan da neurriak errespetatzeko arrazoia. Adierazi du azken asteetan udaltzainen presentzia «handitu» egin dela: «Kontrola handitzen ari da, eta hori berebizikoa da kutsapen arriskuak murrizteko». Elezgaraik beste ikuspuntu bat du, izan ere, dagoen kontrola ez zaio guztiz eraginkorra iruditzen: «Minimoa da. Batez ere, maskararen erabilera bermatzen saiatzen dira, eta ez da kontrol zorrotzegia». Alonso da kontrol falta nabarmentzen duen bakarra: «Hondartzan bertan ez da kontrolatzen ari den inor ikusten».
+
+
+# Benetan al goaz aurrera?
+Aurreko igandean izan zen Behobia - Donostia lasterketaren 54. edizioa. Azken honetan, 26.128 parte hartzaileetatik %24,19 emakumeak izan dira Behobia-San Sebastianen webgune ofizialaren arabera, %75,81 gizonezkoen aldean. 1919an lasterketa sortu zenetik, aldaketak nabariak izan dira. 
+
+Fortuna Kirol Elkarteak, B/SS lasterketaren antolatzaileak, ez du lasterketaren lehen edizioetako daturik digitalizatuta. Digitalizatutako datuak 1979tik aurrerakoak dira. Urte horretan ez da agertzen emakumeen daturik. Emakumeak lehen aldiz 1981eko datuetan agertzen dira; hala ere, ez da datu esanguratsua, emakume gipuzkoarren kopurua soilik hartzen delako kontuan. 1981ean emakume gipuzkoar bakarrak hartu zuen parte lasterketan dortsalarekin, 1982an bik. Hazkunde adierazgarriak 2000. urtetik aurrera jaso dira: ehuneko txiki bat izatetik, 2013an %17,2 izatera heldu ziren. Azken sei urteetan, urtero ia bi puntuko igoera izan da.
+
+### 2025ERAKO ERRONKA
+Haziera horrekin jarraitzea espero dute antolatzaileek. 2025erako erronka bat proposatu dute: 50/50. Alegia, urte horretan bete nahi duten helburua lasterkarien %50 emakumeak izatea da. Horretarako, Fortuna Kirol Elkarteak eta Donostiako Udalak esfortzu handia egin beharko dute bai azpiegiturak aldatzeko, bai gizartea eta kultura eraldatzeko. Oraindik ia %25eko igoera gertatu beharko litzake jomugara iristeko eta zaila dela onartzen dute. “%40 emakumek hartzen badute parte 2025ean, niretzat oso aurrerapauso handia izango da; beraz, kopuru horrekin ere pozik sentituko naiz eta helburua gure eskuekin ukitzea lortu dugula pentsatuko dut”, dio Alazne Mujika Alberdi korrikalariak. “Helburua ezin da estatikoa izan, %25 ia lortu dugu eta aurrera jarraitu behar dugu berdintasunaren bidean”.
+
+### Hamarkada bateko atzerapena
+Emakume batek lehen aldiz maratoi bat era ofizialean korrika egitea 1967an lortu zen. Ez du esan nahi aurreko urteetan emakumerik ez zuenik parte hartu lasterketa horietan, baina izenik eman gabe, eta ondorioz, dortsalik gabe egin zuten. Kathrine Switzer izan zen dortsalarekin egin zuen lehena, Bostoneko Maratoian. 
+Espainian egoera oso desberdina zen. Oraindik inork ez zuen uste emakumeek 42,2 kilometro korrika egin zitzaketenik. Hamar urte beranduago, 1977an, emakumeek maratoietan parte har zitzaketen, baldintza batekin: Espainiako biztanleak ez izatea. Arau zentzugabe hori ezartzeko argudio sendorik ez zegoenez, Lourdes Gabarain lasterkari tolosarrak emakumeon parte hartzeko eskubidea aldarrikatu zuen. Bordelera joan eta han urtero antolatzen den maratoian izena eman eta korrika egitea baino modu hoberik ez zuen aurkitu horretarako. 
+Aldarrikapenak izan zuen ondoriorik; izan ere, 1978an, Katalunian egin zen maratoian, kanpotarrez gain, emakume espainiarrek ere egin zuten lasterka. 
+Urte horretatik aurrera, emakumeek urtero hartu zuten parte lasterketa horietan, baina hazkundea motela izan zen hasieran, bat edo bi emakume gehiagok egin zuten korrika urte bakoitzean. Benetan nabaria egin zen emakumeen partaidetza 1990eko hamarkadatik aurrera. Oraindik ere, 2018an kirol gehienetan generoen arteko ezberdintasunak azpimarra daitezke, baina zorionez, egoera asko hobetu da.
+
