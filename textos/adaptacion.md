@@ -5,6 +5,8 @@
 -->
 # Zailtasunak hondartzan
 ## Egun sargoriak izan dira Donostian azken aldian, eta jende askok hartu du hondartzarako bidea. Erabiltzaileek aipatu dutenez, neurriak errespetatzen saiatzen dira, baina zailtasun ugari edukitzen dituzte.
+
+### Andoni Rekondo - Donostia
 Sargori dago Donostian, eta halako egunetan bainu bat izaten da beroaren aurkako erremediorik onena. Lapurdin eta Bizkaian hondartza batzuk itxi behar izan dituzte, baina ez da Donostiako kasua, eta jendea eguna aprobetxatzeko asmotan dago. Abuztuko ohiko egun bat dirudi, baina maskaren eta udaltzain askoren presentziak hankaz gora jartzen dute hiriko ohikotasuna. Modu ezberdinean gozatzen dute hondartzaz bertaratzen direnek. Batzuk oinez dabiltza itsasertzetik, eguzkia hartzen besteak, eta kirola egitera animatu direnak ere badaude. Beste batzuk ez dira hondartzarekin konformatzen, eta Santa Klara uhartea da horientzat topagunea. Jende ugari dago itsasontzia hartzeko zain. Guztiek maskara jantzita dute, baina zailtasunak dituzte segurtasun neurriak errespetatzeko.
 
 Ander Zabalza, Urko Elezgarai eta Maika Alonso sarritan joaten dira hondartzara. Zabalzaren ustetan, oso «lan zaila» da egoera «hain berezia» ondo kudeatzea eta segurtasun neurri guztiak errespetatzea: «Iruditzen zait ezinezkoa dela hondartzetan uneoro segurtasun distantziak mantentzea». Elezgaraik ere zailtasun berak ikusten ditu: «Etzanda zaudenean ez dago arazorik, baina oinez ibiltzean zailagoa da distantziak errespetatzea. Are gutxiago, marea igotzen denean». Alonsok gehitu du hondartzaren arabera egoera aldatzen dela: «Kontxan distantziak ongi mantentzen dira. Ondarretan, aldiz, ez da hori errespetatzen».
@@ -15,6 +17,8 @@ Neurriak errespetatzeaz gain, beste arazo bat identifikatu dute Alonsok eta Elez
 
 #### Kontrolaren eragina
 Zabalzak dioenez, «kontrola» izan da neurriak errespetatzeko arrazoia. Adierazi du azken asteetan udaltzainen presentzia «handitu» egin dela: «Kontrola handitzen ari da, eta hori berebizikoa da kutsapen arriskuak murrizteko». Elezgaraik beste ikuspuntu bat du, izan ere, dagoen kontrola ez zaio guztiz eraginkorra iruditzen: «Minimoa da. Batez ere, maskararen erabilera bermatzen saiatzen dira, eta ez da kontrol zorrotzegia». Alonso da kontrol falta nabarmentzen duen bakarra: «Hondartzan bertan ez da kontrolatzen ari den inor ikusten».
+
+
 
 
 # Benetan al goaz aurrera?
@@ -31,6 +35,8 @@ Espainian egoera oso desberdina zen. Oraindik inork ez zuen uste emakumeek 42,2 
 Aldarrikapenak izan zuen ondoriorik; izan ere, 1978an, Katalunian egin zen maratoian, kanpotarrez gain, emakume espainiarrek ere egin zuten lasterka. 
 
 Urte horretatik aurrera, emakumeek urtero hartu zuten parte lasterketa horietan, baina hazkundea motela izan zen hasieran, bat edo bi emakume gehiagok egin zuten korrika urte bakoitzean. Benetan nabaria egin zen emakumeen partaidetza 1990eko hamarkadatik aurrera. Oraindik ere, 2018an kirol gehienetan generoen arteko ezberdintasunak azpimarra daitezke, baina zorionez, egoera asko hobetu da.
+
+
 
 
 # Geoparkea: la joya geológica vasca
