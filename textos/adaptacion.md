@@ -23,7 +23,7 @@ Aurreko igandean izan zen Behobia - Donostia lasterketaren 54. edizioa. Azken ho
 
 Fortuna Kirol Elkarteak, B/SS lasterketaren antolatzaileak, ez du lasterketaren lehen edizioetako daturik digitalizatuta. Digitalizatutako datuak 1979tik aurrerakoak dira. Urte horretan ez da agertzen emakumeen daturik. Emakumeak lehen aldiz 1981eko datuetan agertzen dira; hala ere, ez da datu esanguratsua, emakume gipuzkoarren kopurua soilik hartzen delako kontuan. 1981ean emakume gipuzkoar bakarrak hartu zuen parte lasterketan dortsalarekin, 1982an bik. Hazkunde adierazgarriak 2000. urtetik aurrera jaso dira: ehuneko txiki bat izatetik, 2013an %17,2 izatera heldu ziren. Azken sei urteetan, urtero ia bi puntuko igoera izan da.
 
-<image src="C:\Users\Amaia\Desktop\UNI\Web\GITHUB\documentacion-grupo3\textos\behobia-ss.png!>
+<image src="C:\Users\Amaia\Desktop\UNI\Web\GITHUB\documentacion-grupo3\textos\behobia-ss.png">
 
 #### 2025ERAKO ERRONKA
 Haziera horrekin jarraitzea espero dute antolatzaileek. 2025erako erronka bat proposatu dute: 50/50. Alegia, urte horretan bete nahi duten helburua lasterkarien %50 emakumeak izatea da. Horretarako, Fortuna Kirol Elkarteak eta Donostiako Udalak esfortzu handia egin beharko dute bai azpiegiturak aldatzeko, bai gizartea eta kultura eraldatzeko. Oraindik ia %25eko igoera gertatu beharko litzake jomugara iristeko eta zaila dela onartzen dute. “%40 emakumek hartzen badute parte 2025ean, niretzat oso aurrerapauso handia izango da; beraz, kopuru horrekin ere pozik sentituko naiz eta helburua gure eskuekin ukitzea lortu dugula pentsatuko dut”, dio Alazne Mujika Alberdi korrikalariak. “Helburua ezin da estatikoa izan, %25 ia lortu dugu eta aurrera jarraitu behar dugu berdintasunaren bidean”.
