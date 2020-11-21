@@ -7,3 +7,4 @@ en esta misma carpeta y enlazadlo en este documento, así:
 ![texto alternativo o descripción de la imagen](nombre-archivo-imagen.png)
 -->
 
+![Gure webgunearen prozesuen diagrama](diagrama.png)
