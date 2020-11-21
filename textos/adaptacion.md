@@ -3,7 +3,7 @@
 ## Egun sargoriak izan dira Donostian azken aldian, eta jende askok hartu du hondartzarako bidea. Erabiltzaileek aipatu dutenez, neurriak errespetatzen saiatzen dira, baina zailtasun ugari edukitzen dituzte.
 
 ### Andoni Rekondo - Donostia
-<img src=C:\Users\Amaia\Desktop\UNI\Web\GITHUB\documentacion-grupo3\textos\Zailtasunak Hondartzan.png>
+<image src=C:\Users\Amaia\Desktop\UNI\Web\GITHUB\documentacion-grupo3\textos\Zailtasunak Hondartzan.png>
 Sargori dago Donostian, eta halako egunetan bainu bat izaten da beroaren aurkako erremediorik onena. Lapurdin eta Bizkaian hondartza batzuk itxi behar izan dituzte, baina ez da Donostiako kasua, eta jendea eguna aprobetxatzeko asmotan dago. Abuztuko ohiko egun bat dirudi, baina maskaren eta udaltzain askoren presentziak hankaz gora jartzen dute hiriko ohikotasuna. Modu ezberdinean gozatzen dute hondartzaz bertaratzen direnek. Batzuk oinez dabiltza itsasertzetik, eguzkia hartzen besteak, eta kirola egitera animatu direnak ere badaude. Beste batzuk ez dira hondartzarekin konformatzen, eta Santa Klara uhartea da horientzat topagunea. Jende ugari dago itsasontzia hartzeko zain. Guztiek maskara jantzita dute, baina zailtasunak dituzte segurtasun neurriak errespetatzeko.
 
 Ander Zabalza, Urko Elezgarai eta Maika Alonso sarritan joaten dira hondartzara. Zabalzaren ustetan, oso «lan zaila» da egoera «hain berezia» ondo kudeatzea eta segurtasun neurri guztiak errespetatzea: «Iruditzen zait ezinezkoa dela hondartzetan uneoro segurtasun distantziak mantentzea». Elezgaraik ere zailtasun berak ikusten ditu: «Etzanda zaudenean ez dago arazorik, baina oinez ibiltzean zailagoa da distantziak errespetatzea. Are gutxiago, marea igotzen denean». Alonsok gehitu du hondartzaren arabera egoera aldatzen dela: «Kontxan distantziak ongi mantentzen dira. Ondarretan, aldiz, ez da hori errespetatzen».
@@ -23,7 +23,7 @@ Aurreko igandean izan zen Behobia - Donostia lasterketaren 54. edizioa. Azken ho
 
 Fortuna Kirol Elkarteak, B/SS lasterketaren antolatzaileak, ez du lasterketaren lehen edizioetako daturik digitalizatuta. Digitalizatutako datuak 1979tik aurrerakoak dira. Urte horretan ez da agertzen emakumeen daturik. Emakumeak lehen aldiz 1981eko datuetan agertzen dira; hala ere, ez da datu esanguratsua, emakume gipuzkoarren kopurua soilik hartzen delako kontuan. 1981ean emakume gipuzkoar bakarrak hartu zuen parte lasterketan dortsalarekin, 1982an bik. Hazkunde adierazgarriak 2000. urtetik aurrera jaso dira: ehuneko txiki bat izatetik, 2013an %17,2 izatera heldu ziren. Azken sei urteetan, urtero ia bi puntuko igoera izan da.
 
-<img src=C:\Users\Amaia\Desktop\UNI\Web\GITHUB\documentacion-grupo3\textos\behobia-ss.png>
+<image src="C:\Users\Amaia\Desktop\UNI\Web\GITHUB\documentacion-grupo3\textos\behobia-ss.png!>
 
 #### 2025ERAKO ERRONKA
 Haziera horrekin jarraitzea espero dute antolatzaileek. 2025erako erronka bat proposatu dute: 50/50. Alegia, urte horretan bete nahi duten helburua lasterkarien %50 emakumeak izatea da. Horretarako, Fortuna Kirol Elkarteak eta Donostiako Udalak esfortzu handia egin beharko dute bai azpiegiturak aldatzeko, bai gizartea eta kultura eraldatzeko. Oraindik ia %25eko igoera gertatu beharko litzake jomugara iristeko eta zaila dela onartzen dute. “%40 emakumek hartzen badute parte 2025ean, niretzat oso aurrerapauso handia izango da; beraz, kopuru horrekin ere pozik sentituko naiz eta helburua gure eskuekin ukitzea lortu dugula pentsatuko dut”, dio Alazne Mujika Alberdi korrikalariak. “Helburua ezin da estatikoa izan, %25 ia lortu dugu eta aurrera jarraitu behar dugu berdintasunaren bidean”.
@@ -51,7 +51,7 @@ La candidatura para alcanzar la categoría de Geoparque vino con un plan de viab
 
 Entrar a la red de Geoparques no es insignificante, «supone tener un reconocimiento internacional». Y mucho más desde que en 2015 fueran declarados Geoparques mundiales por la Unesco.De esa manera, los paisajes y si-tios geológicos de relevancia universal fueron reconocidos oficialmente.
 
-<img src=C:\Users\Amaia\Desktop\UNI\Web\GITHUB\documentacion-grupo3\textos\Geoparkea.png>
+<image src="C:\Users\Amaia\Desktop\UNI\Web\GITHUB\documentacion-grupo3\textos\Geoparkea.png">
 
 El Flysch «pone al Geoparque vasco en el mapa» mundial. «Es lo más especial. Las capas geológicas que se pueden observar a lo largo de los 13 kilómetros de costa eran antiguos fondos marinos que hoy en día se pueden ver de forma vertical, y esas capas son las hojas del libro de la historia de la Tierra», de su evolución, explica Barriuso. Y añade otro matiz que hace este Flysch único, a diferencia de otros que puedenvisitarse en un radio de pocos kilómetros, al que discurre entreZumaia y Deba no le falta ninguna hoja del libro. «En cada una de esas capas se puede leer una época pasada», y en conjunto, «el Flysch de Geoparkea muestra más de 60 millones de años» de la historia de la Tierra. «Entre los capítulos del libro, por ejemplo, se prueba la teoría del impacto,
 que es cuando desaparecieron los dinosaurios», relata.
