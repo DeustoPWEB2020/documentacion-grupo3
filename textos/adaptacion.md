@@ -5,3 +5,4 @@
 -->
 # Zailtasunak hondartzan
 ## Egun sargoriak izan dira Donostian azken aldian, eta jende askok hartu du hondartzarako bidea. Erabiltzaileek aipatu dutenez, neurriak errespetatzen saiatzen dira, baina zailtasun ugari edukitzen dituzte.
+<image>https://www.berria.eus/argazkiak_papera/BERRIA/d20200821/p004_f01.jpg<image>
