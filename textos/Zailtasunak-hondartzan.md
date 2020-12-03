@@ -10,6 +10,8 @@ Ander Zabalza, Urko Elezgarai eta Maika Alonso sarritan joaten dira hondartzara.
 
 Aldaketa handiena maskaren erabileran nabaritu dute: «Pixkanaka jendeak garrantzia eman dio maskarari, eta paseatzen ari diren guztiek daramate soinean», azaldu du Zabalzak. Alonsok ere berdina ikusten du, eta oinez ibiltzen ari diren «guztiek» maskara erabiltzen dutela baieztatu du. Elezgaraik ere nabaritu du aldaketa, baina oraindik lana dagoela iruditzen zaio: «Ondarretara joanez gero jende gehiago ikusten da maskara jantzita, baina Zurriolan jende gutxik janzten du».
 
+![Hondartza](hondartza.png)
+
 Neurriak errespetatzeaz gain, beste arazo bat identifikatu dute Alonsok eta Elezgaraik: marea igotzen denean, Kontxa itxi egiten dute, eta bertatik botatzen dituztenak Ondarretara joaten dira. «Ondarretan pertsona kopurua zorrotzago neurtu behar da, Kontxa ixten dutenean jende guztia bertara joaten delako», adierazi du Alonsok. Horrez gain, Elezgaraik gehitu du __arazoa tokiz aldatzeak ez duela ezer konpontzen__: «Kontxatik botatzen duten jende gehiena Ondarretara joaten da, eta horrek ez du arazoa konpontzen, arazo hori beste toki batera bidaltzen du, besterik ez». Hori konpontzeko «inbertsio handiagoa» behar dela gehitu du.
 
 ### Kontrolaren eragina
