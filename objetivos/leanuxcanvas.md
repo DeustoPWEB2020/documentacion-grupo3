@@ -33,6 +33,10 @@ Euskal gizarteak bakea eta bizikidetzari buruz informazio sakona eta landua jaso
 
 Webgunearen xede publikoa EAEko gizarte osoa da. 
 
+* Gatazka gertutik bizi duen jendea.
+* Gatazkari buruz interes berezia duen jendea.
+* Nabigatzeko maila altua ez da behar, baina bai maila basiko bat edukitzea, esperientzia hobetuko baitu.
+
 </td><td markdown="1">
 
 **Beneficios para los usuarios**
