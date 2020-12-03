@@ -4,7 +4,7 @@
 
 **Alazne Aldayturriaga**
 
-![Geoparkea](geoparkea.png)
+![Geoparkea](/textos/geoparkea.png)
 
 Este año 2020 debería estar lleno de celebraciones para el [Geoparque de la Costa Vasca](https://geoparkea.eus/), la joya natural y geo lógica que se extiende por la costa guipuzcoana y alienta el desarrollo de la zona de la mano de la ciencia, la educación y el turismo. Sin embargo el coronavirus les ha truncado la fiesta. El 1 de octubre se cumplen diez años desde que los municipios de __Zumaia, Deba y Mutriku__ entraran a formar parte de la RedEuropea y Global de Geoparques, un reconocimiento internacional que sitúa en el mapa este enclave.
 
