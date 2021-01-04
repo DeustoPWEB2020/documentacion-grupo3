@@ -32,13 +32,13 @@ Orrialdean eduki bakoitzaren kokapena zehaztu ahal izateko honakoak izango dira 
 * Eduki zaharrak
     * Gehien irakurri diren edukiak izango dira "eduki zahar" moduan hasierako orriadean mantenduko ditugunak.
 
-![Orrialde nagusia](Hasiera-1.png)
+![Orrialde nagusia](HASIERA.png)
 
 Prentsako edukietan bi atal edukiko ditu orrialdeak. Gainaldean edukira iristeko pasatako orrialde guztiak azalduko dira, atzera erraz joateko aukera izateko. Bestalde, ezkerraldean, edukiaren gaia eta egilearen izena ere azalduko dira. Atal hau prentsako, irratiko eta telebistako edukiak dauden orrialde guztietan azalduko da. Bigarren atala edukiarena da. Titularra, azpititulua, argazkia eta testua izango ditu. Orrialdearen azpialdean aurrez argitaratutako edukiak edo testuarekin lotutako edukiak egongo dira. 
 
-![Prentsa](PRENTSA-1.png)
+![Prentsa](PRENTSA.png)
 
 Telebistako eta irratiko orrialdeak oso antzekoak izango dira. Gainaldean edukira iristeko pasatako orrialde guztiak azalduko dira, atzera erraz joateko aukera izateko. Bestalde, ezkerraldean, edukiaren gaia eta egilearen izena ere azalduko dira. Atal hau prentsako, irratiko eta telebistako edukiak dauden orrialde guztietan azalduko da. Ondoren, atalaren titulua, azalpena, bideoa/podcasta eta aurrez argitaratutako edukiak izango dira orrialdea osatzen duten atalak.
 
-![Telebista](Telebista-1.png)
-![Irratia](Irratia-1.png)
+![Telebista](TELEBISTA.png)
+![Irratia](IRRATIA.png)
