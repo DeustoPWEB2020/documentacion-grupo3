@@ -8,3 +8,5 @@ en esta misma carpeta y enlazadlo en este documento, así:
 -->
 
 ![Gure webgunearen prozesuen diagrama](diagrama.png)
+
+kjdflkadf
